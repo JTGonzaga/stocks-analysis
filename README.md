@@ -4,6 +4,7 @@
 ### Results
 ![2017](https://github.com/JTGonzaga/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![2018](https://github.com/JTGonzaga/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
   As we can see, the market did far better overall in 2017 versus 2018. The only two stocks that posted a positive return in 2018 were ENPH and RUN. If I were to invest in any of the green stocks displayed, I would heavily consider those two over any others. 
   
   Original execution times:
